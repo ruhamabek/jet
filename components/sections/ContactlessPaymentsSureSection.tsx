@@ -19,7 +19,7 @@ export function ContactlessPaymentsSureSection() {
       </div>
       <div className="g-row justify-center my-96-48">
         <div className="g-col xxl-10 md-12 sm-14 xs-16">
-          <video className="_video-asset media inset-0 block br-20-8 overflow-hidden" type="video/mp4" width="1960" height="1240" loop muted playsInline="true" preload="metadata" data-media="video" />
+          <video className="_video-asset media inset-0 block br-20-8 overflow-hidden" width="1960" height="1240" loop muted playsInline preload="metadata" data-media="video" />
         </div>
       </div>
       <div className="g-row justify-center text-center">

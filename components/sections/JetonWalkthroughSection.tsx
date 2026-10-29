@@ -14,14 +14,14 @@ export function JetonWalkthroughSection() {
     <section className="_jeton-walkthrough w-full background-orange">
       <div className="absolute inset-0 grid place-center overflow-hidden">
         <div className="_video-backdrop" aria-hidden="true">
-          <video style={{"--crop":"0.08333333333333333"} as CSSProperties} muted playsInline disablepictureinpicture="" disableremoteplayback="" preload="metadata" tabIndex={-1} />
+          <video style={{"--crop":"0.08333333333333333"} as CSSProperties} muted playsInline disablePictureInPicture disableRemotePlayback preload="metadata" tabIndex={-1} />
         </div>
         <div className="slides relative grid place-center">
-          <video width="1080" height="1080" muted playsInline disablepictureinpicture="" disableremoteplayback="" preload="metadata" aria-hidden="true" />
-          <video width="1080" height="1080" muted playsInline disablepictureinpicture="" disableremoteplayback="" preload="metadata" aria-hidden="true" />
-          <video width="1080" height="1080" muted playsInline disablepictureinpicture="" disableremoteplayback="" preload="metadata" aria-hidden="true" />
-          <video width="1080" height="1080" muted playsInline disablepictureinpicture="" disableremoteplayback="" preload="metadata" aria-hidden="true" />
-          <video width="1080" height="1080" muted playsInline disablepictureinpicture="" disableremoteplayback="" preload="metadata" aria-hidden="true" />
+          <video width="1080" height="1080" muted playsInline disablePictureInPicture disableRemotePlayback preload="metadata" aria-hidden="true" />
+          <video width="1080" height="1080" muted playsInline disablePictureInPicture disableRemotePlayback preload="metadata" aria-hidden="true" />
+          <video width="1080" height="1080" muted playsInline disablePictureInPicture disableRemotePlayback preload="metadata" aria-hidden="true" />
+          <video width="1080" height="1080" muted playsInline disablePictureInPicture disableRemotePlayback preload="metadata" aria-hidden="true" />
+          <video width="1080" height="1080" muted playsInline disablePictureInPicture disableRemotePlayback preload="metadata" aria-hidden="true" />
         </div>
       </div>
       <article data-step="1">

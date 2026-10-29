@@ -5,7 +5,7 @@ export function AllYourFinancesSection() {
   return (
     <section className="_mobile-app-hero flex flex-col">
       <div className="background absolute inset-0">
-        <video className="_video-asset h-full w-full object-cover" type="video/mp4" width="2880" height="2160" loop muted playsInline="true" preload="metadata" data-media="video" />
+        <video className="_video-asset h-full w-full object-cover" width="2880" height="2160" loop muted playsInline preload="metadata" data-media="video" />
       </div>
       <div className="g-row relative color-white">
         <div className="g-col xxl-7 md-9 xs-16 flex flex-col gap-32-24">

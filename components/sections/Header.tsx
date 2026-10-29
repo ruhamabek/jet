@@ -6,7 +6,7 @@ export function Header() {
   return (
     <header className="_common-header" data-layout="full">
       <div className="background absolute inset-0 overflow-hidden background-orange">
-        <video className="_video-asset h-full w-full object-cover" type="video/mp4" width="3840" height="2160" loop muted playsInline="true" poster="/images/hero-poster.jpg" preload="auto" data-media="video" />
+        <video className="_video-asset h-full w-full object-cover" width="3840" height="2160" loop muted playsInline poster="/images/hero-poster.jpg" preload="auto" data-media="video" />
       </div>
       <div className="g-row main-row color-white relative">
         <div className="g-col xxl-8 md-9 sm-12 xs-16 flex flex-col justify-end">

@@ -192,7 +192,7 @@ export function Footer() {
           </li>
         </ul>
         <div className="socials flex">
-          <a href="https://www.instagram.com/jetonpayments" target="_blank" className="_circle-button" icon="instagram" as="Hyperlink" aria-label="instagram">
+          <a href="https://www.instagram.com/jetonpayments" target="_blank" className="_circle-button" aria-label="instagram">
             <div className="bg absolute inset-0" />
             <span className="_icon">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -202,7 +202,7 @@ export function Footer() {
               </svg>
             </span>
           </a>
-          <a href="https://www.facebook.com/jetonpayments" target="_blank" className="_circle-button" icon="facebook" as="Hyperlink" aria-label="facebook">
+          <a href="https://www.facebook.com/jetonpayments" target="_blank" className="_circle-button" aria-label="facebook">
             <div className="bg absolute inset-0" />
             <span className="_icon">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -210,7 +210,7 @@ export function Footer() {
               </svg>
             </span>
           </a>
-          <a href="https://twitter.com/jetonpayments" target="_blank" className="_circle-button" icon="x" as="Hyperlink" aria-label="x">
+          <a href="https://twitter.com/jetonpayments" target="_blank" className="_circle-button" aria-label="x">
             <div className="bg absolute inset-0" />
             <span className="_icon">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">

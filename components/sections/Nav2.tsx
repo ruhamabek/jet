@@ -190,8 +190,8 @@ export function Nav2() {
           </span>
           <span className="_icon shrink-0">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M20 9L4 9" data-mode="stroke" transformOrigin="12 12" strokeWidth="1.5" strokeLinecap="square" />
-              <path d="M20 15L4 15" data-mode="stroke" transformOrigin="12 12" strokeWidth="1.5" strokeLinecap="square" />
+              <path d="M20 9L4 9" data-mode="stroke" style={{ transformOrigin: "12px 12px" }} strokeWidth="1.5" strokeLinecap="square" />
+              <path d="M20 15L4 15" data-mode="stroke" style={{ transformOrigin: "12px 12px" }} strokeWidth="1.5" strokeLinecap="square" />
             </svg>
           </span>
         </span>
